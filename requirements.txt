@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+requests
+chromadb
+sentence-transformers
+openai
+pytest
