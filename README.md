@@ -11,7 +11,7 @@ This repository contains a fully functional, production-grade backend:
 - Architecture diagram included
 
 ## Run locally:
-pip install -r requirements.txt
-uvicorn backend.main:app --reload
+- pip install -r requirements.txt
+- uvicorn backend.main:app --reload
 
 
